@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Una Roca en el Mar</title>
-    <link>handling1.github.io/</link>
+    <link>https://handling1.github.io/unarocaenelmar/</link>
     <description>Recent content on Una Roca en el Mar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="handling1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://handling1.github.io/unarocaenelmar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Informacion</title>
-      <link>handling1.github.io/informacion/</link>
+      <link>https://handling1.github.io/unarocaenelmar/informacion/</link>
       <pubDate>Sat, 20 Aug 2022 18:49:41 +0200</pubDate>
       
-      <guid>handling1.github.io/informacion/</guid>
+      <guid>https://handling1.github.io/unarocaenelmar/informacion/</guid>
       <description>Primera información ou yeah</description>
     </item>
     
