@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Una Roca en el Mar</title>
-    <link>https://handling1.github.io/unarocaenelmar/</link>
-    <description>Recent content on Una Roca en el Mar</description>
+    <title>Posts on Una Roca en el Mar</title>
+    <link>https://handling1.github.io/unarocaenelmar/posts/</link>
+    <description>Recent content in Posts on Una Roca en el Mar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Aug 2022 20:19:32 +0200</lastBuildDate><atom:link href="https://handling1.github.io/unarocaenelmar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 20:19:32 +0200</lastBuildDate><atom:link href="https://handling1.github.io/unarocaenelmar/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yorch el lesionador</title>
       <link>https://handling1.github.io/unarocaenelmar/posts/entrada3/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://handling1.github.io/unarocaenelmar/posts/entrada22/</guid>
       <description>SOY EL DIOS DE HUGOOOOO</description>
-    </item>
-    
-    <item>
-      <title>Informacion</title>
-      <link>https://handling1.github.io/unarocaenelmar/informacion/</link>
-      <pubDate>Sat, 20 Aug 2022 18:49:41 +0200</pubDate>
-      
-      <guid>https://handling1.github.io/unarocaenelmar/informacion/</guid>
-      <description>Primera información ou yeah compra criptomnedas invierte en NFTTTTTTTT Flipendio patronus</description>
     </item>
     
   </channel>

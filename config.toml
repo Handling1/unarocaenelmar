@@ -16,3 +16,5 @@ theme = "tale-hugo-master"
     title = "Posts"
     url = "/posts/"
     weight = 0
+
+    
