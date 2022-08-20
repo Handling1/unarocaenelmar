@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'handling1.github.io'
 languageCode = 'en-us'
 title = 'Una Roca en el Mar'
 theme = "tale-hugo-master"
