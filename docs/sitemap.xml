@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://handling1.github.io/unarocaenelmar/pages/entrada1/</loc>
+    <lastmod>2022-08-20T19:38:41+02:00</lastmod>
+  </url><url>
+    <loc>https://handling1.github.io/unarocaenelmar/pages/</loc>
+    <lastmod>2022-08-20T19:38:41+02:00</lastmod>
+  </url><url>
+    <loc>https://handling1.github.io/unarocaenelmar/</loc>
+    <lastmod>2022-08-20T19:38:41+02:00</lastmod>
+  </url><url>
     <loc>https://handling1.github.io/unarocaenelmar/informacion/</loc>
     <lastmod>2022-08-20T18:49:41+02:00</lastmod>
   </url><url>
     <loc>https://handling1.github.io/unarocaenelmar/categories/</loc>
   </url><url>
     <loc>https://handling1.github.io/unarocaenelmar/tags/</loc>
-  </url><url>
-    <loc>https://handling1.github.io/unarocaenelmar/</loc>
   </url>
 </urlset>
