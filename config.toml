@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Una Roca en el Mar'
+theme = "tale-hugo-master"
