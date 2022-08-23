@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Una Roca en el Mar'
 theme = "tale-hugo-master"
 
+[Author]
+  name = "Se como la roca contra la que rompen sin cesar las olas, manteniéndose firme, a su alrededor se adromecen las turbulencias de la espuma"
+
 [menu]
   [[menu.main]]
     identifier = "informacion"
